@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://angelasidwell.github.io/sitemap.xml 
